@@ -1,1 +1,1 @@
-![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenorosado&layout=compact&theme=radical&&hide=jupyter%20notebook,php,makefile,c%2B%2B,cmake,hack,shell,html,css&langs_count=6&hide_border=True&line_height=20&PAT_1)
+![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenorosado&layout=compact&theme=radical&hide=jupyter%20notebook,php,makefile,c%2B%2B,cmake,hack,shell,html,css&langs_count=6&hide_border=True&line_height=20)
